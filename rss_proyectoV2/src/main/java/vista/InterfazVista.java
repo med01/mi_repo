@@ -56,4 +56,4 @@ public interface InterfazVista {
 	
 	
 
-}
+}//fin interfaz
