@@ -21,7 +21,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
 import controlador.Controlador;
 
 public interface InterfazVista {
-	
+	//esta es la interfaz 
 
 	void setControlador(Controlador c);
 	void arranca();
